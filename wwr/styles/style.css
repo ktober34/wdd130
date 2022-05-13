@@ -17,3 +17,36 @@ nav a{
 main section{
     text-align: center;
 }
+#background {
+    height: 725px;
+}
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    background-color: black;
+}
+.book {
+    background-color: blanchedalmond;
+}
+.join {
+    background-color: antiquewhite;
+}
+.book:hoover {
+    background-color: antiquewhite;
+}
+.join:hover {
+    background-color: bisque;
+}
+#background {
+    background-color: blanchedalmond;
+}
+.msg {
+    background-color: azure;
+}
+footer {
+    background-color: cadetblue;
+}
