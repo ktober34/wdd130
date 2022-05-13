@@ -24,6 +24,7 @@ main section{
 }
 #background {
     height: 725px;
+    background-color: blanchedalmond
 }
 body {
     background-color: #fcfbfb; 
@@ -43,9 +44,6 @@ nav a:hover {
 .book:hoover, .join:hoover {
     background-color: antiquewhite;
     color: #d9c2a3
-}
-#background {
-    background-color: blanchedalmond;
 }
 .msg {
     background-color: rgb(75, 101, 101);
