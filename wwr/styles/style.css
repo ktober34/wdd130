@@ -4,6 +4,11 @@ div {
 }
 nav a{
     text-align: center;
+    color: #d9c2a3;
+    text-decoration: none;
+}
+h4 {
+    color: #d9c2a3
 }
 #hero-msg h1 {
     text-align: center;
@@ -28,18 +33,16 @@ header {
 }
 nav a:hover {
     background-color: black;
+    color: #d9c2a3
 }
-.book {
+.book, .join {
     background-color: blanchedalmond;
+    color: #d9c2a3;
+    text-decoration: none;
 }
-.join {
+.book:hoover, .join:hoover {
     background-color: antiquewhite;
-}
-.book:hoover {
-    background-color: antiquewhite;
-}
-.join:hover {
-    background-color: bisque;
+    color: #d9c2a3
 }
 #background {
     background-color: blanchedalmond;
@@ -47,6 +50,25 @@ nav a:hover {
 .msg {
     background-color: azure;
 }
+.msg h2 {
+    color: #d9c2a3
+}
+.msg p {
+    color: #d9c2a3
+}
 footer {
     background-color: cadetblue;
+}
+footer h3 {
+    color: #d9c2a3;
+    text-decoration: none;
+}
+footer a {
+    color: #d9c2a3
+}
+footer a:hover {
+    color: #d9c2a3
+}
+.icon {
+    width: 80px
 }
