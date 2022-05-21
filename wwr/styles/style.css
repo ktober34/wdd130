@@ -29,6 +29,7 @@ main section{
 }
 .home-title {
     font-size: 2em;
+    margin-top: 10px;
 }
 body {
     background-color: blanchedalmond;
@@ -48,6 +49,8 @@ nav a:hover {
     text-decoration: none;
     font-size: 18px ;
     padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 .book:hoover, .join:hoover {
     background-color: antiquewhite;
@@ -69,6 +72,7 @@ nav a:hover {
 footer {
     background-color:  rgb(75, 101, 101);
     padding: 25px 50px;
+    margin-top: 200px;
 }
 footer h3 {
     color: #d9c2a3;
@@ -101,4 +105,19 @@ h2 {
 }
 footer .social img {
     padding-top: 15px;
+}
+.rivers-card {
+    margin: 200px 0;
+}
+camping-card {
+    margin:200px 0;
+}
+rapids-card {
+    margin: 200px 0;
+}
+.card-img {
+    border: 10px solid black;
+}
+main section img {
+    box-sizing: border-box;
 }
